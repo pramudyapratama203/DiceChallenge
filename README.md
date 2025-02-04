@@ -4,6 +4,8 @@
 Refresh the page and both player will get random numbers from 1 until 6
 
 # Condition
-if numbersPlayer1 > numbersPlayer2 => Player 1 Wins!
-else if numbersPlayer1 < numbersPlayers2 => Player 2 Wins!
-else numbersPlayer1 = numbersPlayer2 => Draw!
+1. If numbersPlayer1 > numbersPlayer2 => Player 1 Wins!
+
+2. Else if numbersPlayer1 < numbersPlayers2 => Player 2 Wins!
+
+3. Else numbersPlayer1 = numbersPlayer2 => Draw!
